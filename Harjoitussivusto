@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Teemun reenisivu </title>
+		<meta charset="utf-8" />
+	</head>
+	<body>
+		<h1>Ensimmäinen harjoitussivu </h1>
+		<h2>Lajin helppous viehättää</h2>
+		<p> Tähän tulee tekstiä ja <br/> tähän rivinvaihto.</p>
+	</body>
+</html>
+
